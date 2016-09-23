@@ -96,7 +96,7 @@
               <idleTime>true</idleTime>
             </value>
           </objProp>
-          <stringProp name="filename">../target/jmeter/results/order.jtl</stringProp>
+          <stringProp name="filename">../target/jmeter/results/JmeterTest.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
