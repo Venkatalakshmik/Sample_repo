@@ -275,7 +275,7 @@
               <idleTime>true</idleTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\JMeter\apache-jmeter-3.0\target\jmeter\results\JmeterTest.jtl</stringProp>
+          <stringProp name="filename">../target/jmeter/results/JmeterTest.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
