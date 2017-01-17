@@ -1,31 +1,4 @@
 
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @Venkatalakshmik
-
-1
-0
-
-    1
-
-Venkatalakshmik/Sample_repo
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Pulse
-Graphs
-Settings
-Sample_repo/pom.xml
-c0f4092 8 days ago
-@Venkatalakshmik Venkatalakshmik Update pom.xml
-171 lines (163 sloc) 7.19 KB
 <!--
     Copyright (C) 2014 Apigee Corporation
     Licensed under the Apache License, Version 2.0 (the "License");
@@ -191,8 +164,3 @@ c0f4092 8 days ago
         </profile>
     </profiles>
 </project>
-
-    Contact GitHub API Training Shop Blog About 
-
-    © 2017 GitHub, Inc. Terms Privacy Security Status Help 
-
